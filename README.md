@@ -42,10 +42,10 @@ javascript-learning/
 Check items off as I complete them.
 
 ### Fundamentals
-- [ ] Variables (`var`, `let`, `const`)
-- [ ] Data types and type coercion
-- [ ] Operators and expressions
-- [ ] Conditionals (`if`, `switch`, ternary)
+- [x] Variables (`var`, `let`, `const`)
+- [x] Data types and type coercion
+- [x] Operators and expressions
+- [x] Conditionals (`if`, `switch`, ternary)
 - [ ] Loops (`for`, `while`, `for...of`, `for...in`)
 
 ### Functions & Scope
