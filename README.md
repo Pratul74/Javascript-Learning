@@ -143,7 +143,7 @@ A quick journal of what I worked on and what I learned.
 
 | Date | What I Learned / Built | Notes |
 |------|------------------------|-------|
-| YYYY-MM-DD | Started the repo, set up environment | Excited to begin! |
+| 2026-10-27 | Started the repo, set up environment | Excited to begin! |
 |  |  |  |
 |  |  |  |
 
@@ -153,7 +153,7 @@ A quick journal of what I worked on and what I learned.
 
 *(Fill this in as I go: lessons, "aha" moments, and mistakes worth remembering.)*
 
-- 
+- `var` allows redeclaring the same variable without an error, while `let` and `const` throw a SyntaxError. Prefer `let` and `const`.
 - 
 - 
 
